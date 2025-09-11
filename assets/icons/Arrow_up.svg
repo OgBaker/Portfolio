@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Ebene_2" data-name="Ebene 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 727.17 555.35">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #fff;
-      }
-    </style>
-  </defs>
+<svg id="Ebene_2" data-name="Ebene 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 172.62 111.24">
   <g id="Ebene_1-2" data-name="Ebene 1">
-    <polygon class="cls-1" points="363.58 0 0 555.35 727.17 555.35 363.58 0"/>
+    <polygon points="172.62 93.57 90.26 0 0 92.99 11.63 111.24 89.7 21.79 160.52 110.66 172.62 93.57"/>
   </g>
 </svg>
