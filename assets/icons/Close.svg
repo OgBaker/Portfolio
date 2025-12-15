@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Ebene_2" data-name="Ebene 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17.43 17.43">
+<svg id="Ebene_2" data-name="Ebene 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17.55 17.52">
   <g id="Ebene_1-2" data-name="Ebene 1">
-    <path d="M.41,0l17.02,17.02-.41.41L0,.41l.41-.41Z"/>
-    <path d="M0,17.02L17.02,0l.41.41L.41,17.43l-.41-.41Z"/>
+    <path d="M0,17.19L17.19,0l.32.32L.32,17.52l-.32-.32Z"/>
+    <path d="M.36,0l17.19,17.19-.32.32L.03.32.36,0Z"/>
   </g>
 </svg>

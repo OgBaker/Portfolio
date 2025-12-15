@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Ebene_2" data-name="Ebene 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.07 7.29">
+<svg id="Ebene_2" data-name="Ebene 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.44 11.84">
   <g id="Ebene_1-2" data-name="Ebene 1">
-    <path d="M0,6.72h24.07v.58H0v-.58Z"/>
-    <path d="M0,3.36h24.07v.58H0v-.58Z"/>
-    <path d="M0,0h24.07v.58H0v-.58Z"/>
+    <path d="M0,0h24.32v.46H0v-.46Z"/>
+    <path d="M0,5.69h24.32v.46H0v-.46Z"/>
+    <path d="M.12,11.39h24.32v.46H.12v-.46Z"/>
   </g>
 </svg>
