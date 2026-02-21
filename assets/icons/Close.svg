@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Ebene_2" data-name="Ebene 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17.55 17.52">
+<svg id="Ebene_2" data-name="Ebene 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20.1 20.06">
   <g id="Ebene_1-2" data-name="Ebene 1">
-    <path d="M0,17.19L17.19,0l.32.32L.32,17.52l-.32-.32Z"/>
-    <path d="M.36,0l17.19,17.19-.32.32L.03.32.36,0Z"/>
+    <polygon points="20.1 18.46 18.5 20.06 10.05 11.61 1.6 20.06 0 18.46 8.46 10.01 .04 1.59 1.63 0 10.05 8.42 18.47 0 20.06 1.59 11.64 10.01 20.1 18.46"/>
   </g>
 </svg>
